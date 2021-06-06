@@ -1,8 +1,8 @@
 ### Hey, I'm Peter 👋
 
--Experienced Wordpress developer
--Violin player (medium)
--Static pages using Bootstrap, Foundation or TailwindCSS
++ Experienced Wordpress developer
++ Violin player (medium)
++ Static pages using Bootstrap, Foundation or TailwindCSS
 
 <!--
 **pplut/pplut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
